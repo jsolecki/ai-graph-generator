@@ -1,0 +1,1 @@
+export const QUESTION_FILLER = 'Give me the answer in chartjs format Without any descriptions. I need only json with labels and datasets. Data must be type of number. Each dataset should have its own color in hash.'
